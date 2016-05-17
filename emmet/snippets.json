@@ -920,6 +920,12 @@
 		"profile": "xml"
 	},
 
+	"pug": {
+		"filters": "pug",
+		"extends": "html",
+		"profile": "xml"
+	},
+
 	"jsx": {
 		"filters": "jsx, html",
 		"extends": "html",
